@@ -9,6 +9,7 @@ public:
     virtual string mostrar();
     int getA()const;
     void setA(int&);
+    void info();
 };
 
 #endif // A_H

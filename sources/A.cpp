@@ -9,3 +9,6 @@ int A::getA()const{
 void A::setA(int&a_){
     a=a_;
 }
+void A::info(){
+    cout<<"Informacion";
+}
